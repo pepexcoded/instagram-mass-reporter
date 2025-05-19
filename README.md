@@ -1,5 +1,4 @@
 # instagram-mass-reporter
-Instagram Mass Reporter
 
 ## PePex Reporter - Features
 
