@@ -1,5 +1,8 @@
 # instagram-mass-reporter
 
+PePex Instagram Mass Reporter Showcase Video: https://www.youtube.com/watch?v=rWU1YYvFJIY&t=44s
+PePex Discord Channel: https://discord.gg/KsshWHs9YJ
+
 ## PePex Reporter - Features
 
 - Installer
