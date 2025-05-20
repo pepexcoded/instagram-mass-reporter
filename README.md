@@ -2,7 +2,12 @@
 
 PePex Instagram Mass Reporter Showcase Video: https://www.youtube.com/watch?v=rWU1YYvFJIY&t=44s
 PePex Discord Channel: https://discord.gg/KsshWHs9YJ
-https://github.com/user-attachments/assets/819a9c6c-3ad0-4705-9bf4-c9a11ff16287
+
+
+https://github.com/user-attachments/assets/2a660d52-ade3-48f7-9eb8-5e4b56d1c426
+
+
+
 
 
 ## PePex Reporter - Features
