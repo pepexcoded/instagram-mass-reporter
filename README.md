@@ -2,6 +2,8 @@
 
 PePex Instagram Mass Reporter Showcase Video: https://www.youtube.com/watch?v=rWU1YYvFJIY&t=44s
 PePex Discord Channel: https://discord.gg/KsshWHs9YJ
+https://github.com/user-attachments/assets/819a9c6c-3ad0-4705-9bf4-c9a11ff16287
+
 
 ## PePex Reporter - Features
 
@@ -35,6 +37,8 @@ PePex Discord Channel: https://discord.gg/KsshWHs9YJ
 
 - Settings / Configuration
 > Enable Auto-Retry ( recommended :star2: )
+
+
 > Max. Retry Attempts
 > Custom Delay Between Reports 
 > Use Custom User-Agent ( recommended :star2: )
